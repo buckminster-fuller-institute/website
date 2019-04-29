@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.bfi.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>The Buckminster Fuller Institute - RBF Contributions</title>
+ <link>https://www.bfi.org/admin/structure/taxonomy/publication-tags/terms/rbf-contributions</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>MY HARVARD</title>
+ <link>https://www.bfi.org/publications/book/my-harvard</link>
+ <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+    &lt;p&gt;Taplinger Press, New York City, NY. c1980. Hardback.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;field-pub-type clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Publication Type: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/publication-type/book&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Book&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field-publication-tags clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Publication Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/admin/structure/taxonomy/publication-tags/terms/rbf-contributions&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;RBF Contributions&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;  &lt;h3 class=&quot;field-label&quot;&gt;
+    Full Date  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-full-date&quot;&gt;
+    &lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;1980-01-01T00:00:00-05:00&quot;&gt;Tuesday, 1 January 1980&lt;/span&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Author (if not Bucky)  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-attribution&quot;&gt;
+    Jeffrey Lant  &lt;/div&gt;
+</description>
+ <pubDate>Wed, 12 Feb 2014 21:15:41 +0000</pubDate>
+ <dc:creator>jmurray</dc:creator>
+ <guid isPermaLink="false">845 at https://www.bfi.org</guid>
+</item>
+<item>
+ <title>Learning Tomorrows: Commentaries on the Future of Education</title>
+ <link>https://www.bfi.org/publications/book/learning-tomorrows-commentaries-future-education</link>
+ <description>
+  &lt;div class=&quot;field-body&quot;&gt;
+      &lt;/div&gt;
+&lt;div class=&quot;field-pub-type clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Publication Type: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/publication-type/book&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Book&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-image&quot;&gt;
+    &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.bfi.org/sites/default/files/images/literature_source/learningtomorrows.jpg&quot; width=&quot;100&quot; height=&quot;150&quot; alt=&quot;&quot; /&gt;  &lt;/div&gt;
+&lt;div class=&quot;field-publication-tags clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Publication Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/admin/structure/taxonomy/publication-tags/terms/rbf-contributions&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;RBF Contributions&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;  &lt;h3 class=&quot;field-label&quot;&gt;
+    Full Date  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-full-date&quot;&gt;
+    &lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;1979-01-01T00:00:00-05:00&quot;&gt;Monday, 1 January 1979&lt;/span&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Author (if not Bucky)  &lt;/h3&gt;
+
+  &lt;div class=&quot;field-attribution&quot;&gt;
+    Edited by Peter Wagschal  &lt;/div&gt;
+</description>
+ <pubDate>Mon, 20 Jan 2014 21:13:09 +0000</pubDate>
+ <dc:creator>BFI</dc:creator>
+ <guid isPermaLink="false">212 at https://www.bfi.org</guid>
+</item>
+</channel>
+</rss>
